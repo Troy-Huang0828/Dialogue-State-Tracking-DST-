@@ -1,0 +1,1 @@
+python test_transformer.py --test_name "${1}"

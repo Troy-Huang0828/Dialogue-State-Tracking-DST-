@@ -1,0 +1,1 @@
+python score.py --ground_true_dir "${1}"  --predict_fold "${2}"

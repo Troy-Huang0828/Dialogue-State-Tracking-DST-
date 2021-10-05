@@ -1,0 +1,1 @@
+python submission.py --input_dir "${1}"  --output_dir "${2}"
